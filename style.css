@@ -1,0 +1,47 @@
+.navbar-expand-lg{
+  background-color: #61649f !important;
+}
+
+.nav-link, .navbar-brand{
+  color: white;
+}
+
+.navbar{
+  padding: .5rem 4.5rem;
+}
+
+.card-body{
+  padding: .5rem;
+}
+
+P{
+  margin: .5rem;
+}
+
+#data-panel{
+  margin: 5rem 10rem;
+}
+
+.card-img-top:hover{
+  border-color:#aaaaee;
+  border-width:3px;
+  border-style:solid;
+  padding:5px;
+}
+
+#people-modal-avatar{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-add-favorite{
+  color: white;
+  background-color: #c04851;
+}
+
+.btn-remove-favorite{
+  color: white;
+  background-color: #223e36;
+}
+
